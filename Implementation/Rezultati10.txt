@@ -1,0 +1,6 @@
+Vremena izvrsenja operacija:
+Srednji broj nanosekundi za 10ciklusa:     insert:773.75     delete : 790     extract:1320
+Srednji broj nanosekundi za 100ciklusa:     insert:646.125     delete : 653.5     extract:896
+Srednji broj nanosekundi za 1000ciklusa:     insert:569.037     delete : 743.7     extract:934.65
+Srednji broj nanosekundi za 10000ciklusa:     insert:527.625     delete : 654.26     extract:865.73
+Srednji broj nanosekundi za 100000ciklusa:     insert:511.326     delete : 640.179     extract:841.706

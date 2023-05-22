@@ -1,0 +1,4 @@
+﻿  Heap.cpp
+F:\labaratorijske\BInomni Hip\BInomni Hip\Heap.cpp(54,11): warning C4101: 'ptr': unreferenced local variable
+F:\labaratorijske\BInomni Hip\BInomni Hip\Heap.cpp(261,11): warning C4101: 'ptrAdv': unreferenced local variable
+F:\labaratorijske\BInomni Hip\BInomni Hip\Heap.cpp(288,63): error C2882: 'std': illegal use of namespace identifier in expression
